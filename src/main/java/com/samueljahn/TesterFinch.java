@@ -9,10 +9,27 @@ public class TesterFinch {
         FinalFinch bird =  new FinalFinch("A");
         bird.setMove("F", 60, 100);
         bird.setTurn("L", 90, 100);
-          bird.setMove("F", 25, 100);
+          bird.setMove("F", 20, 100);
         bird.setTurn("L", 90, 100);
         bird.setMove("F", 55, 100);
         bird.setTurn("R", 90, 100);
+        bird.setMove("F", 23.5, 100);
+        bird.setTurn("R", 90, 100);
+        bird.setMove("F", 55, 100);
+        bird.setTurn("L", 90, 100);
+        bird.setMove("F", 22, 100);
+      bird.setTurn("L", 90, 100);
+      bird.setMove("F", 55, 100);
+      bird.setTurn("R", 85, 100);
+      bird.setMove("F", 20, 100);
+      bird.setTurn("R", 90, 100);
+      bird.setMove("F", 85, 100);
+      bird.setTurn("R", 90, 100);
+      bird.setMove("F", 80, 100);
+
+
+
+
 
 
 
